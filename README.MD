@@ -5,14 +5,6 @@
 - 💬 Handles all WhatsApp message types
 - ⚡ Fast and modern TypeScript codebase
 
-### 📦 Installation
-
-```bash
-npm install @yupra/baileys
-# or
-yarn add @yupra/baileys
-```
-
 ### 🚀 Quick Example
 
 ```ts
