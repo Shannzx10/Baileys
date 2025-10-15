@@ -1,24 +1,3 @@
-# @yupra/baileys
-
-## ⚡ High-Performance Pterodactyl Panel Server  
-[🌟 Access Yupra Panel](https://yupra.my.id/)  
-**https://yupra.my.id/**
-
-> High-performance Pterodactyl panel with full admin support and reliable server hosting.
-
----
-
-### 💝 Donation (Solana)
-```
-8xN639anSq5q64793tseCjPaXNgXEPaKxr91CKEuggKd
-```
-
----
-
-## 🤖 @yupra/baileys — WhatsApp Web API Library
-
-@yupra/baileys is a modern, TypeScript-based library for WhatsApp Web API integration, with built-in fixes for group identifiers like `@lid` and `@jid`.
-
 ### ✨ Features
 - 🧠 Intelligent `@lid` and `@jid` mapping
 - 📱 Multi-device support
@@ -69,20 +48,3 @@ async function start() {
 
 start()
 ```
-
----
-
-## 🖥 Run Your WhatsApp Bot with Yupra Panel
-
-Deploy your WhatsApp bot easily using the Pterodactyl-based Yupra Panel and enjoy full admin support.  
-➡️ [Launch Panel](https://yupra.my.id/)
-
----
-
-### ⚠️ Disclaimer
-This project is not affiliated with WhatsApp Inc. Use it responsibly. Avoid spam, abuse, or any illegal activities.
-
----
-
-### 📄 License
-MIT © 2024 Yupra Network
