@@ -8,8 +8,8 @@
 ### 🚀 Quick Example
 
 ```ts
-import makeWASocket from '@yupra/baileys'
-import { getSenderLid, toJid } from '@yupra/baileys'
+import makeWASocket from 'baileys'
+import { getSenderLid, toJid } from 'baileys'
 
 const sock = makeWASocket({ printQRInTerminal: true })
 
