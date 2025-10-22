@@ -24,7 +24,7 @@ sock.ev.on('messages.upsert', ({ messages }) => {
 ### 🧪 Advanced Usage (Multi-file Auth)
 
 ```ts
-import makeWASocket, { useMultiFileAuthState } from "@yupra/baileys"
+import makeWASocket, { useMultiFileAuthState } from "baileys"
 
 async function start() {
     const { state, saveCreds } = await useMultiFileAuthState("auth_info")
